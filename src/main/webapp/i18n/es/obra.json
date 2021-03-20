@@ -1,0 +1,25 @@
+{
+  "jhipsterFlutterApp": {
+    "obra": {
+      "home": {
+        "title": "Obras",
+        "createLabel": "Crear nuevo Obra",
+        "createOrEditLabel": "Crear o editar Obra",
+        "notFound": "Ningún Obras encontrado"
+      },
+      "created": "Un nuevo Obra ha sido creado con el identificador {{ param }}",
+      "updated": "Un Obra ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Obra ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Obra {{ id }}?"
+      },
+      "detail": {
+        "title": "Obra"
+      },
+      "descripcion": "Descripcion",
+      "habilitada": "Habilitada",
+      "fechaFinObra": "Fecha Fin Obra",
+      "tipoObra": "Tipo Obra"
+    }
+  }
+}

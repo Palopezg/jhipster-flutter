@@ -1,0 +1,24 @@
+{
+  "jhipsterFlutterApp": {
+    "masterTipoEmp": {
+      "home": {
+        "title": "Master Tipo Emps",
+        "createLabel": "Create a new Master Tipo Emp",
+        "createOrEditLabel": "Create or edit a Master Tipo Emp",
+        "notFound": "No Master Tipo Emps found"
+      },
+      "created": "A new Master Tipo Emp is created with identifier {{ param }}",
+      "updated": "A Master Tipo Emp is updated with identifier {{ param }}",
+      "deleted": "A Master Tipo Emp is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Master Tipo Emp {{ id }}?"
+      },
+      "detail": {
+        "title": "Master Tipo Emp"
+      },
+      "descripcion": "Descripcion",
+      "sobreLote": "Sobre Lote",
+      "sobreVivienda": "Sobre Vivienda"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "jhipsterFlutterApp": {
+    "nSE": {
+      "home": {
+        "title": "NSES",
+        "createLabel": "Crear nuevo NSE",
+        "createOrEditLabel": "Crear o editar NSE",
+        "notFound": "Ningún NSES encontrado"
+      },
+      "created": "Un nuevo NSE ha sido creado con el identificador {{ param }}",
+      "updated": "Un NSE ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un NSE ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar NSE {{ id }}?"
+      },
+      "detail": {
+        "title": "NSE"
+      },
+      "descripcion": "Descripcion",
+      "activo": "Activo"
+    }
+  }
+}

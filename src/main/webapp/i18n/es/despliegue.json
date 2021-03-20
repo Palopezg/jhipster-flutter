@@ -1,0 +1,23 @@
+{
+  "jhipsterFlutterApp": {
+    "despliegue": {
+      "home": {
+        "title": "Despliegues",
+        "createLabel": "Crear nuevo Despliegue",
+        "createOrEditLabel": "Crear o editar Despliegue",
+        "notFound": "Ningún Despliegues encontrado"
+      },
+      "created": "Un nuevo Despliegue ha sido creado con el identificador {{ param }}",
+      "updated": "Un Despliegue ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Despliegue ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Despliegue {{ id }}?"
+      },
+      "detail": {
+        "title": "Despliegue"
+      },
+      "descripcion": "Descripcion",
+      "valor": "Valor"
+    }
+  }
+}

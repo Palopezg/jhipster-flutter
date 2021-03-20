@@ -1,0 +1,27 @@
+{
+  "jhipsterFlutterApp": {
+    "grupoAlarma": {
+      "home": {
+        "title": "Grupo Alarmas",
+        "createLabel": "Create a new Grupo Alarma",
+        "createOrEditLabel": "Create or edit a Grupo Alarma",
+        "notFound": "No Grupo Alarmas found"
+      },
+      "created": "A new Grupo Alarma is created with identifier {{ param }}",
+      "updated": "A Grupo Alarma is updated with identifier {{ param }}",
+      "deleted": "A Grupo Alarma is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Grupo Alarma {{ id }}?"
+      },
+      "detail": {
+        "title": "Grupo Alarma"
+      },
+      "nombreGrupo": "Nombre Grupo",
+      "alarmaTiempo": "Alarma Tiempo",
+      "alarmaSva": "Alarma Sva",
+      "alarmaBusinesscase": "Alarma Businesscase",
+      "grupoEmprendimiento": "Grupo Emprendimiento",
+      "grupoUsuario": "Grupo Usuario"
+    }
+  }
+}

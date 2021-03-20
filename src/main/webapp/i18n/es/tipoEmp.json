@@ -1,0 +1,24 @@
+{
+  "jhipsterFlutterApp": {
+    "tipoEmp": {
+      "home": {
+        "title": "Tipo Emps",
+        "createLabel": "Crear nuevo Tipo Emp",
+        "createOrEditLabel": "Crear o editar Tipo Emp",
+        "notFound": "Ningún Tipo Emps encontrado"
+      },
+      "created": "Un nuevo Tipo Emp ha sido creado con el identificador {{ param }}",
+      "updated": "Un Tipo Emp ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Tipo Emp ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Tipo Emp {{ id }}?"
+      },
+      "detail": {
+        "title": "Tipo Emp"
+      },
+      "descripcion": "Descripcion",
+      "valor": "Valor",
+      "masterTipoEmp": "Master Tipo Emp"
+    }
+  }
+}

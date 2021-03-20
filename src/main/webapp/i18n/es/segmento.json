@@ -1,0 +1,22 @@
+{
+  "jhipsterFlutterApp": {
+    "segmento": {
+      "home": {
+        "title": "Segmentos",
+        "createLabel": "Crear nuevo Segmento",
+        "createOrEditLabel": "Crear o editar Segmento",
+        "notFound": "Ningún Segmentos encontrado"
+      },
+      "created": "Un nuevo Segmento ha sido creado con el identificador {{ param }}",
+      "updated": "Un Segmento ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Segmento ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Segmento {{ id }}?"
+      },
+      "detail": {
+        "title": "Segmento"
+      },
+      "descripcion": "Descripcion"
+    }
+  }
+}

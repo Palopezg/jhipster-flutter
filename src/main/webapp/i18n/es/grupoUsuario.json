@@ -1,0 +1,22 @@
+{
+  "jhipsterFlutterApp": {
+    "grupoUsuario": {
+      "home": {
+        "title": "Grupo Usuarios",
+        "createLabel": "Crear nuevo Grupo Usuario",
+        "createOrEditLabel": "Crear o editar Grupo Usuario",
+        "notFound": "Ningún Grupo Usuarios encontrado"
+      },
+      "created": "Un nuevo Grupo Usuario ha sido creado con el identificador {{ param }}",
+      "updated": "Un Grupo Usuario ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Grupo Usuario ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Grupo Usuario {{ id }}?"
+      },
+      "detail": {
+        "title": "Grupo Usuario"
+      },
+      "usuario": "Usuario"
+    }
+  }
+}

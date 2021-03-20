@@ -1,0 +1,23 @@
+{
+  "jhipsterFlutterApp": {
+    "grupoEmprendimiento": {
+      "home": {
+        "title": "Grupo Emprendimientos",
+        "createLabel": "Create a new Grupo Emprendimiento",
+        "createOrEditLabel": "Create or edit a Grupo Emprendimiento",
+        "notFound": "No Grupo Emprendimientos found"
+      },
+      "created": "A new Grupo Emprendimiento is created with identifier {{ param }}",
+      "updated": "A Grupo Emprendimiento is updated with identifier {{ param }}",
+      "deleted": "A Grupo Emprendimiento is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Grupo Emprendimiento {{ id }}?"
+      },
+      "detail": {
+        "title": "Grupo Emprendimiento"
+      },
+      "descripcion": "Descripcion",
+      "esProtegido": "Es Protegido"
+    }
+  }
+}

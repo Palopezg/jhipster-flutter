@@ -1,0 +1,21 @@
+{
+  "name": "Segmento",
+  "fields": [
+    {
+      "fieldName": "descripcion",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "changelogDate": "20210320183339",
+  "entityTableName": "segmento",
+  "dto": "no",
+  "pagination": "no",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "clientRootFolder": "",
+  "applications": "*"
+}

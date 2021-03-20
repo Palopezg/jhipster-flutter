@@ -1,0 +1,23 @@
+{
+  "jhipsterFlutterApp": {
+    "despliegue": {
+      "home": {
+        "title": "Despliegues",
+        "createLabel": "Create a new Despliegue",
+        "createOrEditLabel": "Create or edit a Despliegue",
+        "notFound": "No Despliegues found"
+      },
+      "created": "A new Despliegue is created with identifier {{ param }}",
+      "updated": "A Despliegue is updated with identifier {{ param }}",
+      "deleted": "A Despliegue is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Despliegue {{ id }}?"
+      },
+      "detail": {
+        "title": "Despliegue"
+      },
+      "descripcion": "Descripcion",
+      "valor": "Valor"
+    }
+  }
+}
