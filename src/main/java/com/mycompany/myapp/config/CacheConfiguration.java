@@ -47,6 +47,23 @@ public class CacheConfiguration {
             createCache(cm, com.mycompany.myapp.domain.User.class.getName());
             createCache(cm, com.mycompany.myapp.domain.Authority.class.getName());
             createCache(cm, com.mycompany.myapp.domain.User.class.getName() + ".authorities");
+            createCache(cm, com.mycompany.myapp.domain.Despliegue.class.getName());
+            createCache(cm, com.mycompany.myapp.domain.Segmento.class.getName());
+            createCache(cm, com.mycompany.myapp.domain.Tecnologia.class.getName());
+            createCache(cm, com.mycompany.myapp.domain.Competencia.class.getName());
+            createCache(cm, com.mycompany.myapp.domain.Estado.class.getName());
+            createCache(cm, com.mycompany.myapp.domain.NSE.class.getName());
+            createCache(cm, com.mycompany.myapp.domain.TipoObra.class.getName());
+            createCache(cm, com.mycompany.myapp.domain.Obra.class.getName());
+            createCache(cm, com.mycompany.myapp.domain.TipoEmp.class.getName());
+            createCache(cm, com.mycompany.myapp.domain.EjecCuentas.class.getName());
+            createCache(cm, com.mycompany.myapp.domain.Direccion.class.getName());
+            createCache(cm, com.mycompany.myapp.domain.Emprendimiento.class.getName());
+            createCache(cm, com.mycompany.myapp.domain.GrupoAlarma.class.getName());
+            createCache(cm, com.mycompany.myapp.domain.GrupoEmprendimiento.class.getName());
+            createCache(cm, com.mycompany.myapp.domain.GrupoUsuario.class.getName());
+            createCache(cm, com.mycompany.myapp.domain.Pauta.class.getName());
+            createCache(cm, com.mycompany.myapp.domain.MasterTipoEmp.class.getName());
             // jhipster-needle-ehcache-add-entry
         };
     }

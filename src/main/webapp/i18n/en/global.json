@@ -7,6 +7,23 @@
       "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
       "entities": {
         "main": "Entities",
+        "despliegue": "Despliegue",
+        "segmento": "Segmento",
+        "tecnologia": "Tecnologia",
+        "competencia": "Competencia",
+        "estado": "Estado",
+        "nse": "NSE",
+        "tipoObra": "Tipo Obra",
+        "obra": "Obra",
+        "tipoEmp": "Tipo Emp",
+        "ejecCuentas": "Ejec Cuentas",
+        "direccion": "Direccion",
+        "emprendimiento": "Emprendimiento",
+        "grupoAlarma": "Grupo Alarma",
+        "grupoEmprendimiento": "Grupo Emprendimiento",
+        "grupoUsuario": "Grupo Usuario",
+        "pauta": "Pauta",
+        "masterTipoEmp": "Master Tipo Emp",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {

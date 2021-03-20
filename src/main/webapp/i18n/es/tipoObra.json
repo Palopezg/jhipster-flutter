@@ -1,0 +1,23 @@
+{
+  "jhipsterFlutterApp": {
+    "tipoObra": {
+      "home": {
+        "title": "Tipo Obras",
+        "createLabel": "Crear nuevo Tipo Obra",
+        "createOrEditLabel": "Crear o editar Tipo Obra",
+        "notFound": "Ningún Tipo Obras encontrado"
+      },
+      "created": "Un nuevo Tipo Obra ha sido creado con el identificador {{ param }}",
+      "updated": "Un Tipo Obra ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Tipo Obra ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Tipo Obra {{ id }}?"
+      },
+      "detail": {
+        "title": "Tipo Obra"
+      },
+      "descripcion": "Descripcion",
+      "segmento": "Segmento"
+    }
+  }
+}

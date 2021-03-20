@@ -1,0 +1,22 @@
+{
+  "jhipsterFlutterApp": {
+    "tecnologia": {
+      "home": {
+        "title": "Tecnologias",
+        "createLabel": "Crear nuevo Tecnologia",
+        "createOrEditLabel": "Crear o editar Tecnologia",
+        "notFound": "Ningún Tecnologias encontrado"
+      },
+      "created": "Un nuevo Tecnologia ha sido creado con el identificador {{ param }}",
+      "updated": "Un Tecnologia ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Tecnologia ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Tecnologia {{ id }}?"
+      },
+      "detail": {
+        "title": "Tecnologia"
+      },
+      "descripcion": "Descripcion"
+    }
+  }
+}

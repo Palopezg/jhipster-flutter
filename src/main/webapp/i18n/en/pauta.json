@@ -1,0 +1,24 @@
+{
+  "jhipsterFlutterApp": {
+    "pauta": {
+      "home": {
+        "title": "Pautas",
+        "createLabel": "Create a new Pauta",
+        "createOrEditLabel": "Create or edit a Pauta",
+        "notFound": "No Pautas found"
+      },
+      "created": "A new Pauta is created with identifier {{ param }}",
+      "updated": "A Pauta is updated with identifier {{ param }}",
+      "deleted": "A Pauta is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Pauta {{ id }}?"
+      },
+      "detail": {
+        "title": "Pauta"
+      },
+      "anios": "Anios",
+      "tipoPauta": "Tipo Pauta",
+      "masterTipoEmp": "Master Tipo Emp"
+    }
+  }
+}

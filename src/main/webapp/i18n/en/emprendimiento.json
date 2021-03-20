@@ -1,0 +1,68 @@
+{
+  "jhipsterFlutterApp": {
+    "emprendimiento": {
+      "home": {
+        "title": "Emprendimientos",
+        "createLabel": "Create a new Emprendimiento",
+        "createOrEditLabel": "Create or edit a Emprendimiento",
+        "notFound": "No Emprendimientos found"
+      },
+      "created": "A new Emprendimiento is created with identifier {{ param }}",
+      "updated": "A Emprendimiento is updated with identifier {{ param }}",
+      "deleted": "A Emprendimiento is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Emprendimiento {{ id }}?"
+      },
+      "detail": {
+        "title": "Emprendimiento"
+      },
+      "nombre": "Nombre",
+      "contacto": "Contacto",
+      "fechaFinObra": "Fecha Fin Obra",
+      "elementosDeRed": "Elementos De Red",
+      "clientesCatv": "Clientes Catv",
+      "clientesFibertel": "Clientes Fibertel",
+      "clientesFibertelLite": "Clientes Fibertel Lite",
+      "clientesFlow": "Clientes Flow",
+      "clientesCombo": "Clientes Combo",
+      "lineasVoz": "Lineas Voz",
+      "mesesDeFinalizado": "Meses De Finalizado",
+      "altasBC": "Altas BC",
+      "penetracionVivLot": "Penetracion Viv Lot",
+      "penetracionBC": "Penetracion BC",
+      "demanda1": "Demanda 1",
+      "demanda2": "Demanda 2",
+      "demanda3": "Demanda 3",
+      "demanda4": "Demanda 4",
+      "lotes": "Lotes",
+      "viviendas": "Viviendas",
+      "comProf": "Com Prof",
+      "habitaciones": "Habitaciones",
+      "manzanas": "Manzanas",
+      "demanda": "Demanda",
+      "fechaDeRelevamiento": "Fecha De Relevamiento",
+      "telefono": "Telefono",
+      "anoPriorizacion": "Ano Priorizacion",
+      "contratoOpen": "Contrato Open",
+      "negociacion": "Negociacion",
+      "estadoBC": "Estado BC",
+      "fecha": "Fecha",
+      "codigoDeFirma": "Codigo De Firma",
+      "fechaFirma": "Fecha Firma",
+      "observaciones": "Observaciones",
+      "comentario": "Comentario",
+      "estadoFirma": "Estado Firma",
+      "obra": "Obra",
+      "tipoObra": "Tipo Obra",
+      "tipoEmp": "Tipo Emp",
+      "estado": "Estado",
+      "competencia": "Competencia",
+      "despliegue": "Despliegue",
+      "nSE": "N SE",
+      "segmento": "Segmento",
+      "tecnologia": "Tecnologia",
+      "ejecCuentas": "Ejec Cuentas",
+      "direccion": "Direccion"
+    }
+  }
+}

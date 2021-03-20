@@ -1,0 +1,22 @@
+{
+  "jhipsterFlutterApp": {
+    "competencia": {
+      "home": {
+        "title": "Competencias",
+        "createLabel": "Crear nuevo Competencia",
+        "createOrEditLabel": "Crear o editar Competencia",
+        "notFound": "Ningún Competencias encontrado"
+      },
+      "created": "Un nuevo Competencia ha sido creado con el identificador {{ param }}",
+      "updated": "Un Competencia ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Competencia ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Competencia {{ id }}?"
+      },
+      "detail": {
+        "title": "Competencia"
+      },
+      "descripcion": "Descripcion"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "jhipsterFlutterApp": {
+    "ejecCuentas": {
+      "home": {
+        "title": "Ejec Cuentas",
+        "createLabel": "Create a new Ejec Cuentas",
+        "createOrEditLabel": "Create or edit a Ejec Cuentas",
+        "notFound": "No Ejec Cuentas found"
+      },
+      "created": "A new Ejec Cuentas is created with identifier {{ param }}",
+      "updated": "A Ejec Cuentas is updated with identifier {{ param }}",
+      "deleted": "A Ejec Cuentas is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Ejec Cuentas {{ id }}?"
+      },
+      "detail": {
+        "title": "Ejec Cuentas"
+      },
+      "telefono": "Telefono",
+      "apellido": "Apellido",
+      "celular": "Celular",
+      "mail": "Mail",
+      "nombre": "Nombre",
+      "repcom1": "Repcom 1",
+      "repcom2": "Repcom 2",
+      "segmento": "Segmento"
+    }
+  }
+}
